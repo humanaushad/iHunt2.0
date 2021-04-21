@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Top 10 Cutest Dog Breeds — Small Cutest Dogs We Can’t Get Enough Of@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Top 10 Cutest Dog Breeds — Small Cutest Dogs We Can’t Get Enough Of@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Top 10 Cutest Dog Breeds — Small Cutest Dogs We Can’t Get Enough Of@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
